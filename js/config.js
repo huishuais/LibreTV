@@ -28,8 +28,8 @@ const API_SITES = {
         detail: 'http://caiji.dyttzyapi.com', 
     },
     ruyi: {
-        api: 'https://cj.rycjapi.com/api.php/provide/vod',
-        name: '如意资源',
+        api: 'https://caiji.maotaizy.cc/api.php/provide/vod/from/mtm3u8/at/xml/',
+        name: '官方资源',
     },
     bfzy: {
         api: 'https://bfzyapi.com/api.php/provide/vod',
